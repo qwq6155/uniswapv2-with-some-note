@@ -1,4 +1,4 @@
-pragma solidity >=0.5.0;
+pragma solidity >=0.5.0; 
 
 // interface 关键字：接口。
 // 接口就像是一个“蓝图”或“合同”。它只定义了“应该有哪些函数”，但不包含具体的代码实现。
